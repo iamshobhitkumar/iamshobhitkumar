@@ -39,6 +39,12 @@ I'm persuing my major in Computer Science And Applied Mathematics from IIIT Delh
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
       
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <p align="center"> 
   Visitor count<br>
   <a href="https://shobhitkumar.netlify.app/">
